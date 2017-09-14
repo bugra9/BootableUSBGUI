@@ -1,7 +1,7 @@
 # BootableUSBGUI
 BootableUSB (<https://github.com/bugra9/BootableUSB>) yazılımı için arayüz çalışmasıdır. Çalışması için BootableUSB yazılımı son sürümünün yüklü olması gerekmektedir.
 
-<https://github.com/bugra9/BootableUSB/releases> bağlantısından paketlenmiş haline ulaşabilirsiniz.
+<https://github.com/bugra9/BootableUSBGUI/releases> bağlantısından paketlenmiş haline ulaşabilirsiniz.
 
 ### Ekran görüntüsü
 

@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bootableusb\n"
+"Report-Msgid-Bugs-To: https://github.com/bugra9/BootableUSB/issues\n"
+"POT-Creation-Date: 2017-09-14 09:55+0000\n"
+"PO-Revision-Date: 2017-09-14 09:55+0000\n"
+"Last-Translator: bugra9 <bugra9@gmail.com>\n"
+"Language-Team: Turkish <tr@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr\n"
+
+msgid "USB Storage Device"
+msgstr "USB Depolama Aygıtı"
+
+msgid "ISO Image"
+msgstr "ISO Yansıması"
+
+msgid "Device"
+msgstr "Aygıt"
+
+msgid "Advanced Options"
+msgstr "Gelişmiş Seçenekler"
+
+msgid "HYBRIT"
+msgstr "MELEZ"
+
+msgid "Partition Scheme and target system type"
+msgstr "Disk Bölüm Düzeni ve Hedef Sistem Türü"
+
+msgid "%s partition scheme for BIOS or UEFI"
+msgstr "BIOS ya da UEFI için %s bölüm düzeni"
+
+msgid "%s partition scheme for BIOS"
+msgstr "BIOS için %s Bölüm Düzeni"
+
+msgid "%s partition scheme for UEFI"
+msgstr "UEFI için %s Bölüm Düzeni"
+
+msgid "%s partition scheme"
+msgstr "%s Bölüm Düzeni"
+
+msgid "File system"
+msgstr "Dosya Sistemi"
+
+msgid "New volume label"
+msgstr "Yeni Birim Etiketi"
+
+msgid "Persistent Storage"
+msgstr "Kalıcı Depolama"
+
+msgid "Start"
+msgstr "Başlat"

@@ -1,0 +1,12 @@
+productName: BootableUSB
+forceCodeSigning: true
+files:
+  - "dist/index.html"
+  - "dist/index_bundle.js"
+  - "package.json"
+  - "main.js"
+  - "!node_modules"
+asar: true
+linux:
+  category: "GNOME;GTK;System;Utility"
+  packageCategory: "GNOME;GTK;System;Utility"

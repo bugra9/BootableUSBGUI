@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(0, 188, 212);
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+.app {
+  width: 500px;
+  margin: 20px auto;
+}
